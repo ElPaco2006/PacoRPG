@@ -1,0 +1,3 @@
+[submodule "lib/Paco-RPG-Engine"]
+	path = lib/Paco-RPG-Engine
+	url = git@github.com:ElPaco2006/Paco-RPG-Engine.git
