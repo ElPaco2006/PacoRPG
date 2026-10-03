@@ -1,5 +1,5 @@
 
-#include "hello.h"
+#include <RPG-Engine/hello.h>
 
 int main() {
     hello();
